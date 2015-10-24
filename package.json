@@ -1,0 +1,14 @@
+{
+  "name": "generator-egret",
+  "version": "0.1.0",
+  "description": "egret with webpack and tsd",
+  "files":[
+	  "app"
+  ],
+  "author": "hyper",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  },
+  "keywords":["yeoman-generator"]
+}

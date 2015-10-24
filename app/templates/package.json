@@ -1,0 +1,7 @@
+{
+	"scripts": {
+		"start": "webpack-dev-server",
+		"build": "webpack --optimize-minimize",
+		"tsd": "tsd"
+	}
+}
